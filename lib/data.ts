@@ -15,7 +15,7 @@ export const navLinks = [
 ];
 
 export type Differential = {
-  icon: "zap" | "shield" | "headset";
+  icon: "zap" | "radar" | "shield" | "headset";
   title: string;
   description: string;
 };
@@ -26,6 +26,12 @@ export const differentials: Differential[] = [
     title: "Pontualidade",
     description:
       "Rotas planejadas e cumprimento rigoroso de prazos para sua carga chegar no tempo combinado.",
+  },
+  {
+    icon: "radar",
+    title: "Rastreamento",
+    description:
+      "Acompanhe sua carga em tempo real com atualizações diretas do motorista responsável.",
   },
   {
     icon: "shield",

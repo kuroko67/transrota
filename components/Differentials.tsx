@@ -1,11 +1,12 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Headset, Shield, Zap, type LucideIcon } from "lucide-react";
+import { Headset, Radar, Shield, Zap, type LucideIcon } from "lucide-react";
 import { differentials, type Differential } from "@/lib/data";
 
 const iconMap: Record<Differential["icon"], LucideIcon> = {
   zap: Zap,
+  radar: Radar,
   shield: Shield,
   headset: Headset,
 };
