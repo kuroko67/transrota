@@ -15,7 +15,7 @@ export const navLinks = [
 ];
 
 export type Differential = {
-  icon: "zap" | "radar" | "shield" | "headset";
+  icon: "zap" | "shield" | "headset";
   title: string;
   description: string;
 };
