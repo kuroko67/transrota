@@ -83,11 +83,6 @@ export default function TruckShowcase() {
               </div>
             ))}
           </dl>
-
-          <p className="mt-8 text-xs text-gray-500 text-center">
-            * Valores de capacidade e volume são estimados — atualize com os
-            dados reais do seu caminhão antes de publicar a página.
-          </p>
         </motion.div>
       </div>
 
