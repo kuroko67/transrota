@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     default: "Mudanças e Fretes CID | Mudanças Residenciais, Comerciais e Fretes com Caminhão Próprio",
     template: "%s | Mudanças e Fretes CID",
   },
-  description: "Mudanças e Fretes CID - Transportamos sua mudança ou carga com caminhão próprio, atendimento direto do motorista, seguro incluso e rastreamento. Solicite orçamento grátis via WhatsApp (67) 9913-0112.",
+  description: "Mudanças e Fretes CID - Transportamos sua mudança ou carga com caminhão próprio, atendimento direto do motorista, seguro incluso e rastreamento. Solicite orçamento grátis via WhatsApp (67) 98144-8255.",
   keywords: [
     "mudanças residenciais",
     "mudanças comerciais",
@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     url: "https://mudancasefretescid.com.br",
     siteName: "Mudanças e Fretes CID",
     title: "Mudanças e Fretes CID | Mudanças e Fretes com Caminhão Próprio",
-    description: "Mudanças residenciais, comerciais e fretes com caminhão próprio. Atendimento direto, seguro incluso, rastreamento e orçamento via WhatsApp. (67) 9913-0112",
+    description: "Mudanças residenciais, comerciais e fretes com caminhão próprio. Atendimento direto, seguro incluso, rastreamento e orçamento via WhatsApp. (67) 98144-8255",
   },
   twitter: {
     card: "summary_large_image",

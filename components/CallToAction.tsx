@@ -4,7 +4,7 @@ import { useState, type FormEvent } from "react";
 import { motion } from "framer-motion";
 import { CheckCircle2, Phone, Send, User, MessageSquare } from "lucide-react";
 
-const WHATSAPP_NUMBER = "556799130112";
+const WHATSAPP_NUMBER = "5567981448255";
 
 function buildWhatsAppUrl(formData: FormData) {
   const name = formData.get("name") as string;

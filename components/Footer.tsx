@@ -8,7 +8,7 @@ const socialLinks = [
   { icon: Facebook, label: "Facebook", href: "https://facebook.com/mudancasefretescid" },
 ];
 
-const WHATSAPP_URL = "https://wa.me/5567999130112";
+const WHATSAPP_URL = "https://wa.me/5567981448255";
 
 export default function Footer() {
   return (
@@ -116,8 +116,8 @@ export default function Footer() {
             <ul className="space-y-4 text-sm text-gray-300">
               <li className="flex items-center gap-3">
                 <Phone size={18} className="text-gold-500 shrink-0" />
-                <a href="tel:+5567999130112" className="hover:text-gold-400 transition-colors">
-                  (67) 99913-0112
+                <a href="tel:+5567981448255" className="hover:text-gold-400 transition-colors">
+                  (67) 98144-8255
                 </a>
               </li>
               <li className="flex items-start gap-3">

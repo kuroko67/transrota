@@ -12,7 +12,7 @@ const cargoTypes = [
   "Carga fechada",
 ];
 
-const WHATSAPP_NUMBER = "556799130112";
+const WHATSAPP_NUMBER = "5567981448255";
 
 type SimulationState = "idle" | "loading" | "done";
 
